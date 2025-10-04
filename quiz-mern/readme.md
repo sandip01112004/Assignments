@@ -32,7 +32,7 @@ React (Vite) • Node.js • Express • MongoDB • Jest
 ### Steps
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/quiz-mern.git
+git clone https://github.com/<your-username>/assignments.git
 cd quiz-mern
 
 # Backend
